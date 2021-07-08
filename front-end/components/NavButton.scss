@@ -1,0 +1,22 @@
+// components/NavButton.scss
+
+.NavButton {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 2em;
+  
+    height: 100%;
+  
+    cursor: pointer;
+  
+    .Icon {
+      font-size: 20px;
+    }
+  
+    .Label {
+      font-size: 14px;
+      text-transform: capitalize;
+    }
+}

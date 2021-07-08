@@ -1,0 +1,20 @@
+// components/Header.scss
+
+@import "../theme/theme";
+
+.Header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  height: 61px;
+  width: 100%;
+
+  padding: 0 20px;
+
+  font-family: $logo-font;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 1px solid #dee2e6;
+}

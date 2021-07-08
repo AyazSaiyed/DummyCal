@@ -1,0 +1,58 @@
+[
+    {
+        "model": "buildings.BuildingType",
+        "pk": 1,
+        "fields": {
+            "building_type": "Head office",
+            "sqft_per_person": 0
+        }
+    },
+    {
+        "model": "buildings.BuildingType",
+        "pk": 2,
+        "fields": {
+            "building_type": "Standard Office",
+            "sqft_per_person": 0
+        }
+    },
+    {
+        "model": "buildings.BuildingType",
+        "pk": 3,
+        "fields": {
+            "building_type": "Data Center",
+            "sqft_per_person": 0
+        }
+    },
+    {
+        "model": "buildings.BuildingType",
+        "pk": 4,
+        "fields": {
+            "building_type": "R&D Labs, Warehouse",
+            "sqft_per_person": 0
+        }
+    },
+    {
+          "model": "buildings.BuildingType",
+          "pk": 5,
+          "fields": {
+            "building_type": "Manufacturing",
+            "sqft_per_person": 0
+          }
+    },
+    {
+          "model": "buildings.BuildingType",
+          "pk": 6,
+          "fields": {
+            "building_type": "Mixed Use",
+            "sqft_per_person": 0
+          }
+    },
+    {
+        "model": "buildings.BuildingType",
+        "pk": 7,
+        "fields": {
+          "building_type": "Other",
+          "sqft_per_person": 0
+        }
+    }
+]
